@@ -11,10 +11,12 @@
             "id": "8c3f414da2993c27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "assigment/Project_EN_2021.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Project_EN_2021"
             }
           }
         ]
