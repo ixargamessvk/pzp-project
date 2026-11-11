@@ -1,0 +1,11 @@
+{
+  "remote": "origin",
+  "branch": "",
+  "gitPath": "",
+  "debounceSeconds": 10,
+  "intervalSeconds": 60,
+  "placeholderName": ".empty-folder.md",
+  "createEmptyFolderPlaceholders": true,
+  "syncOnStartup": true,
+  "showSuccessNotices": false
+}
